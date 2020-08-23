@@ -1,0 +1,9 @@
+{"intents": [
+        {"tag": "pos",
+         "patterns": ["لدي ","نعم "]
+        },
+        {"tag": "neg",
+         "patterns": ["لا"]
+        }
+  ]
+  }
